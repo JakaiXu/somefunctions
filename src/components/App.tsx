@@ -1,5 +1,3 @@
-import React, { useState } from "react";
-import Link from "./Link";
 import Route from "./Route";
 import AccordionPage from "../pages/AccordionPage";
 import DropDownPage from "../pages/DropDownPage";
